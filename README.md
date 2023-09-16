@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @ramsiam <Ramkumar Thulasiram>
-- 👀 I’m interested in ...Developing Mobile, Web, API Functional (GUI, Functional, Regression, Dependency) & Non Functional(Performance, Localization, Security, CustomerExperience) Autoomation Solutions
-- 🌱 I’m currently learning ... (Appium, Selenium, Mobile APIs, Security & Mobile AI Test Automation Solutions)
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Developing  Automation Solutions using AI for
+-   Mobile, Web, APIs' applications
+-     Functional (GUI, Functional, Regression, Dependency)
+-     Non Functional(Performance, Accessibility, Localization, Security, CustomerExperience)
+- 🌱 I’m currently learning ... Appium, Selenium, Mobile APIs, Security & AI Test Automation Solutions
+- 💞️ I’m looking to collaborate on ... the QEA Automation developement, Technologies & Trends.
 - 📫 How to reach me ... ramkumar.thulasiram@yahoo.co.in; ramkumar.thulasiram@gmail.com
 
 <!---
